@@ -27,7 +27,7 @@ A l’aide d’une perceuse situé au GP, nous avons fais les trous sur le PCB p
 
 # Code Arduino
 
-Le programme arduino permet à la l’aide de bibliothèque spécifique de contrôler un encodeur rotatoire et un écran OLED positionnés sur le shield.
+Le programme arduino permet à la l’aide de bibliothèques spécifiques permet de contrôler un encodeur rotatoire et un écran OLED positionnés sur le shield.
 
 # Application APK et module bluetooth
 
