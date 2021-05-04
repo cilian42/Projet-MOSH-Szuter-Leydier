@@ -25,14 +25,18 @@ Visualisation 3D :
 
 Les espaces vides correspondent aux empalcements de l'amplificateur, du module bluetooth, de l'encodeur rotatoir et de L'oled.
 
-Plan du masque à imprimer :
 
-![Capture2 (1)](https://user-images.githubusercontent.com/82756766/117001350-88a47e00-ace2-11eb-95a2-baf3b44633cb.PNG)
 
 
 # Fabrication 
 
-Notre shield, partie recouvrant l’Arduino où nous allons placer nos composants et nos modules a été faite dans le bâtiment du GP à l’aide de Catherine Crouzet. Notre modèle du shield en 2D est imprimé sur un papier calque. Nous le plaçons sur une plaque d’epoxy recouverte d’une fine couche de cuivre que nous allons insoler aux UV pendant environ 5 minutes. Par la suite, nous mettons l’ensemble dans un révélateur qui va enlever la partie insolée. La plaquette d'epoxy est ensuite déposée dans un bain de perchlorure de fer pour la gravure, pendant environ 5 minutes également. Le cuivre non protégé par la résine a été retiré, ce qui permet d'obtenir le PCB modélisé. Enfin, on applique de l'acétone sur la plaquette afin d'ôter les dernières traces de résine résiduelle.
+Notre shield, partie recouvrant l’Arduino où nous allons placer nos composants et nos modules a été faite dans le bâtiment du GP à l’aide de Catherine Crouzet. Notre modèle du shield en 2D est imprimé sur un papier calque.
+
+Plan du Shield 2D à imprimer :
+
+![Capture2 (1)](https://user-images.githubusercontent.com/82756766/117001350-88a47e00-ace2-11eb-95a2-baf3b44633cb.PNG)
+
+Nous le plaçons sur une plaque d’epoxy recouverte d’une fine couche de cuivre que nous allons insoler aux UV pendant environ 5 minutes. Par la suite, nous mettons l’ensemble dans un révélateur qui va enlever la partie insolée. La plaquette d'epoxy est ensuite déposée dans un bain de perchlorure de fer pour la gravure, pendant environ 5 minutes également. Le cuivre non protégé par la résine a été retiré, ce qui permet d'obtenir le PCB modélisé. Enfin, on applique de l'acétone sur la plaquette afin d'ôter les dernières traces de résine résiduelle.
 
 
 
