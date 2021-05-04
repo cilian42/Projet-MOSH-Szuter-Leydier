@@ -12,18 +12,23 @@ La couche de graphite que nous déposons à l’aide d’un critérium sur la su
 # De Kitcad à la fabrication du PCB shield (perceuse)
 
 Les plans de notre shield ont été fait sur le logiciel Kitcad.
-Visualisation 2D
+Visualisation 2D :
 
 ![Capture1](https://user-images.githubusercontent.com/82756766/117001006-20ee3300-ace2-11eb-91a3-b060f3b8922a.PNG)
 
 
-Visualisation 3D
+Visualisation 3D :
 
 ![capture3](https://user-images.githubusercontent.com/82756766/117001020-2481ba00-ace2-11eb-9106-8f362175705e.png)
 
 ![Capture4](https://user-images.githubusercontent.com/82756766/117001058-2e0b2200-ace2-11eb-9fe6-9a6d3c939132.PNG)
 
 Les espaces vides correspondent aux empalcements de l'amplificateur, du module bluetooth, de l'encodeur rotatoir et de L'oled.
+
+Plan du masque à imprimer :
+
+![Capture2 (1)](https://user-images.githubusercontent.com/82756766/117001350-88a47e00-ace2-11eb-95a2-baf3b44633cb.PNG)
+
 
 # Fabrication 
 
