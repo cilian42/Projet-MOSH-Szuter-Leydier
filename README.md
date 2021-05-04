@@ -13,11 +13,14 @@ La couche de graphite que nous déposons à l’aide d’un critérium sur la su
 
 Les plans de notre shield ont été fait sur le logiciel Kitcad.
 Visualisation 2D
+
 ![Capture1](https://user-images.githubusercontent.com/82756766/117001006-20ee3300-ace2-11eb-91a3-b060f3b8922a.PNG)
 
 
 Visualisation 3D
+
 ![capture3](https://user-images.githubusercontent.com/82756766/117001020-2481ba00-ace2-11eb-9106-8f362175705e.png)
+
 ![Capture4](https://user-images.githubusercontent.com/82756766/117001058-2e0b2200-ace2-11eb-9fe6-9a6d3c939132.PNG)
 
 # Fabrication 
