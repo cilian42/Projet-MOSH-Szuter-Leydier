@@ -31,4 +31,7 @@ Le programme arduino permet à la l’aide de bibliothèques spécifiques permet
 
 # Application APK et module bluetooth
 
-Notre application APK a été faite sur le site MIT application inventor. Elle a pour but de se connecter au module bluetooth directement relié au Shield pour récupérer facilement la valeur de résistance du capteur sur notre téléphone
+Notre application APK a été faite sur le site MIT application inventor. Elle a pour but de se connecter au module bluetooth directement relié au Shield pour récupérer facilement la valeur de résistance du capteur sur notre téléphone.
+Pour l'utiliser, il suffit de brancher le module Arduino au port USB d'un ordinateur. Brancher en suite le module Bluetooth qui doit cligonoter rapidement en rouge. 
+Il faut en suite télécharger l'application apk sur un télephone Androïd.
+Il suffit ensuite d'activer le Bluetooth dans les paramètres du téléphone. Lancer l'application. Se connecter sur l'application à l'adresse suivante : 98:D3:51:FE:21:CD: HC-05 . Elle corespond à l'adresse du module Bluetooth.
