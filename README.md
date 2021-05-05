@@ -25,6 +25,13 @@ Visualisation 3D :
 
 Les espaces vides correspondent aux empalcements de l'amplificateur, du module bluetooth, de l'encodeur rotatoir et de L'oled.
 
+Photo du Shield :
+
+![image](https://user-images.githubusercontent.com/82756766/117150715-b0661580-adb8-11eb-95d1-3d30b3bc44f4.png)
+
+Il s'est avéré que notre Shield possédait un faux contact pour l'écran Oled. Nous avons fais le choix de l'abandonner pour utiliser l'écran pour récupérer nos valeurs.
+
+
 
 
 
