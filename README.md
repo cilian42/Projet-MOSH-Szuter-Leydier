@@ -54,3 +54,10 @@ Notre application APK a été faite sur le site MIT application inventor. Elle a
 Pour l'utiliser, il suffit de brancher le module Arduino au port USB d'un ordinateur. Brancher en suite le module Bluetooth qui doit cligonoter rapidement en rouge. 
 Il faut en suite télécharger l'application apk sur un télephone Androïd.
 Il suffit ensuite d'activer le Bluetooth dans les paramètres du téléphone. Lancer l'application. Se connecter sur l'application à l'adresse suivante : 98:D3:51:FE:21:CD: HC-05 . Elle corespond à l'adresse du module Bluetooth.
+
+# Resultat de test et mesures
+
+![image](https://user-images.githubusercontent.com/82756766/117150453-74cb4b80-adb8-11eb-9dfb-29e187f11106.png)
+
+Les essais ont été effectué à l'aide de crayon HB, B, 2B et HB2.
+
